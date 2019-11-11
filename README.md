@@ -1,4 +1,4 @@
-# comparanoticias
+# Compara-Noticias
 Programa que compara las palabras de dos noticias diferentes. 
 
 ## Práctica 1: Web scraping
